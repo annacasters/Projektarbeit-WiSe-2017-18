@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sneakers SYSTEM "sneakersammlung.dtd">
+<sneakersammlung>
+    <sneaker xml:id="47">
+        <schuh marke="Vans" farbe="Blau" groesse="40">Vans Era blue gum sole</schuh>
+        <preis>79.90</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="48">
+        <schuh marke="Vans" farbe="weiss/schwarz karriert" groesse="40">Vans Classic Slip On</schuh>
+        <preis>64.95</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="49">
+        <schuh marke="Nike" farbe="Platinum White" groesse="40">Nike Huarache</schuh>
+        <preis>120</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="50">
+        <schuh marke="Nike" farbe="Glitzer Blau" groesse="40">NIKE SB ZOOM STEFAN JANOSKI PRM</schuh>
+        <preis>60.90</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="51">
+        <schuh marke="Adidas" farbe="Weiss" groesse="40">Adidas Originals Stan Smith Vulc</schuh>
+        <preis>79.95</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="52">
+        <schuh marke="Adidas" farbe="Core Black" groesse="40">Adidas EQT Support 93/17</schuh>
+        <preis>125.90</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="53">
+        <schuh marke="Adidas" farbe="Solid Grey" groesse="40">Adidas NMD Solid Grey Glitch Camo Pack</schuh>
+        <preis>120</preis>
+        <datum>Februar 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="54">
+        <schuh marke="Adidas" farbe="Weiß" groesse="40">Adidas Originals</schuh>
+        <preis>99.95</preis>
+        <datum>Februar 2016</datum>
+    </sneaker>
+
+    <sneaker xml:id="55">
+        <schuh marke="Adidas" farbe="Weiß" groesse="40">WHITE MOUNTAINEERING X ADIDAS EQT 93-17 BOOST</schuh>
+        <preis>220</preis>
+        <datum>Maerz 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="56">
+        <schuh marke="Asics" farbe="grün/schwarz" groesse="40">Asics Gel Lyte Iii</schuh>
+        <preis>129.95</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="57">
+        <schuh marke="Asics" farbe="Beige" groesse="40">Asics/The North Face The Apex Gel-Lyte III</schuh>
+        <preis>150</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="58">
+        <schuh marke="Reebok" farbe="Weiß" groesse="40">Reebok classic</schuh>
+        <preis>84.95</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="59">
+        <schuh marke="Reebok" farbe="Coal/ Moondust/ Black/ White/ Riot Red" groesse="40">Reebok Classic Leather SM</schuh>
+        <preis>89.90</preis>
+        <datum>April 2017</datum>
+    </sneaker>
+
+    <sneaker xml:id="60">
+        <schuh marke="Puma" farbe="Weinrot" groesse="40">Puma Basket Platform Core</schuh>
+        <preis>99.95</preis>
+        <datum>Januar 2017</datum>
+    </sneaker>
+
+</sneakersammlung>

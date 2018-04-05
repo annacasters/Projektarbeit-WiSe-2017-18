@@ -1,0 +1,14 @@
+47: Schrank 4; gut
+48: Schrank 4; schlecht
+49: Schrank 4; schlecht
+50: Schrank 4; sehr gut
+51: Schrank 4; gut
+52: Schrank 4; mittelmäßig
+53: Schrank 5; gut
+54: Schrank 5; sehr gut
+55: Schrank 5; mittelmäßig
+56: Schrank 5; mittelmäßig
+57: Schrank 5; mittelmäßig
+58: Schrank 5; sehr gut
+59: Schrank 5; schlecht
+60: Schrank 6; sehr gut
